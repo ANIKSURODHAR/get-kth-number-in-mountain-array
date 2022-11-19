@@ -1,4 +1,4 @@
-# get-kth-number-in-mountain-array
+# get-kth-number of index -in-mountain-array
 
 
 #include<bits/stdc++.h>
