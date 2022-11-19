@@ -1,0 +1,1 @@
+# get-kth-number-in-mountain-array
